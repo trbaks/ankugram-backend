@@ -1,3 +1,4 @@
+FROM node:14
 
 # setting the work direcotry
 WORKDIR /usr/src/app
